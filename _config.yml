@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: 张智进的博客
 subtitle: '智进技术'
 description: ''
 keywords: java php javascript go rust 区块链 ipfs etherum 电商系统 营销系统 游戏 智能合约
@@ -16,7 +16,7 @@ timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://www.memestarter.top/
 permalink: :year/:month/:day/:title/
 permalink_defaults: 
 pretty_urls:
@@ -109,6 +109,14 @@ deploy:
   repo: git@github_xinyun678:it114/memestarter-top-html.git
   branch: main
   message: 'deploy'
+
+
+sitemap:
+  path: sitemap.xml
+  template: ./sitemap_template.xml
+  rel: false
+  tags: true
+  categories: true
 
 
 
