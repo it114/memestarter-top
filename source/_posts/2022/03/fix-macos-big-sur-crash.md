@@ -15,7 +15,7 @@ categories:
 ---
 
 # 问题描述
-    今天本来是用vscode写一个spring的小程序，编译的时候一直提示没有compile provider，百思不得其解。初步怀疑是maven和vscode的配置有关系。但是多番尝试依然无果。为了不浪费时间，还是决定intelj来开发，好久没有打开过intelj了，谁知道一打开就crash....今天真的是见了鬼。
+今天本来是用vscode写一个spring的小程序，编译的时候一直提示没有compile provider，百思不得其解。初步怀疑是maven和vscode的配置有关系。但是多番尝试依然无果。为了不浪费时间，还是决定intelj来开发，好久没有打开过intelj了，谁知道一打开就crash....今天真的是见了鬼。
   
 # 解决思路
     1. 一番观察进程之后，排除了我下载的破解插件的原因。
