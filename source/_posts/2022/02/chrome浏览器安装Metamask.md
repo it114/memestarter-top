@@ -7,8 +7,9 @@ tags:
     - Metamask
     - chrome
 categories:
-    - 探索
-        - 区块链
+  - 技术生活
+      - 编程技术
+        - 区块链   
 ---
 
 
