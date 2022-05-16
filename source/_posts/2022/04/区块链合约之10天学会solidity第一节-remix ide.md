@@ -1,11 +1,13 @@
 ---
-title: 区块链代码编辑器remix-ide
-date: 2022-04-30 18:09:37
+title: 区块链合约之10天学会solidity第一节-remix ide
+date: 2022-04-28 18:11:20
 permalink:
 tags:
     - 区块链
     - ide
     - solidity教程
+    - 教程
+    - 合约
 categories:
 - 技术生活
   - 编程技术
