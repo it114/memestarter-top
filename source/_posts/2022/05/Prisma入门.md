@@ -157,9 +157,15 @@ main()
     await prismaClient.$disconnect()
 })
 
+```
 
 
 
+运行
+
+
+```
+npx ts-node index.ts 
 
 
 ```

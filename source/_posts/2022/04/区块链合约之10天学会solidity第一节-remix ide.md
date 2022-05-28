@@ -4,6 +4,7 @@ date: 2022-04-28 18:11:20
 permalink:
 tags:
     - 区块链
+    - blockchain
     - ide
     - solidity教程
     - 教程

@@ -6,6 +6,7 @@ tags:
 - 合约
 - 区块链
 - solidity
+- blockchain
 - 教程
 categories:
 - 技术生活
